@@ -1,6 +1,5 @@
 # Numerical-Calculus-Project
-The project aims to implement and testing in different way different numerical calculus algorithms.
-Project developed during the Numerical Calculus course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of dr. [Roberto Garrappa](https://www.dm.uniba.it/members/garrappa).
+The project aims to implement and testing in different way different numerical calculus algorithms. Project developed during the Numerical Calculus course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of dr. [Roberto Garrappa](https://www.dm.uniba.it/members/garrappa).
 ## Content
 There are five different topics, for each of which we implement and test the main algorithms
 #### Computer Algebra
