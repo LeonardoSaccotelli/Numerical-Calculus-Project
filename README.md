@@ -34,4 +34,4 @@ There are five different topics, for each of which we implement and test the mai
 * Simple and composite Simpson's method
 * Convergence test
 ## License
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.*
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
