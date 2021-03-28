@@ -19,7 +19,7 @@ There are five different topics, for each of which we implement and test the mai
 #### Interpolation
 * Indeterminate coefficients' method
 * Lagrange First Formula
-* Lagrange Second Fomula
+* Lagrange Second Formula
 * Newton's method
 * Convergence test
 * Chebyshev nodes and Equidistance nodes
